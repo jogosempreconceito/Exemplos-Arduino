@@ -18,5 +18,5 @@ void loop()
   lcd.print("Temperatura:");
   lcd.setCursor(0,1);
   lcd.print(temperatura); 
-  delay(1000);
+  delay(5000);
 } 
